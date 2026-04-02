@@ -5,4 +5,11 @@
     "json_url": "https://raw.githubusercontent.com/mdakramshikder2/test/refs/heads/main/templates/header.json",
     "category": "Header"
 }
+{
+    "title": "Cloud footer",
+    "thumbnail": "https://raw.githubusercontent.com/mdakramshikder2/test/main/images/header.jpg",
+    "json_url": "https://raw.githubusercontent.com/mdakramshikder2/test/refs/heads/main/templates/copyright%20.json",
+    "category": "footer"
+}
+    
 ]
